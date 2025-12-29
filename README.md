@@ -1,6 +1,7 @@
 # Dapper Basics – When, Why, and How
 
-This repository documents what **Dapper** is, when to use it, how it compares with **Entity Framework Core**, and best practices to **optimize queries using Dapper**.
+This repository documents the path I followed to learn what **Dapper** is, when to use it, how it compares with **Entity Framework Core**, and best practices to **optimize queries using Dapper**.
+I covered those areas by creating simple CRUD API.
 
 ---
 
